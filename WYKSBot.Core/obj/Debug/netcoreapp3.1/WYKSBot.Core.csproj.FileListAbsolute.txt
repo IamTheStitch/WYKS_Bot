@@ -1,0 +1,24 @@
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.Core.deps.json
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.Core.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.Core.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.DAL.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.DAL.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.csprojAssemblyReference.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.AssemblyInfoInputs.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.AssemblyInfo.cs
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.csproj.CopyComplete
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.csproj.CoreCompileInputs.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.Core.deps.json
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.Core.dll
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.Core.pdb
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.DAL.dll
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\bin\Debug\netcoreapp3.1\WYKSBot.DAL.pdb
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.csprojAssemblyReference.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.csproj.CoreCompileInputs.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.AssemblyInfoInputs.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.AssemblyInfo.cs
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.csproj.CopyComplete
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.dll
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.Core\obj\Debug\netcoreapp3.1\WYKSBot.Core.pdb

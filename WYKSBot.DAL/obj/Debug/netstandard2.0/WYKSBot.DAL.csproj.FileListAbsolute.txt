@@ -1,0 +1,17 @@
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\bin\Debug\netstandard2.0\WYKSBot.DAL.deps.json
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\bin\Debug\netstandard2.0\WYKSBot.DAL.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.AssemblyInfoInputs.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.AssemblyInfo.cs
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\bin\Debug\netstandard2.0\WYKSBot.DAL.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.csprojAssemblyReference.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\bin\Debug\netstandard2.0\WYKSBot.DAL.deps.json
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\bin\Debug\netstandard2.0\WYKSBot.DAL.dll
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\bin\Debug\netstandard2.0\WYKSBot.DAL.pdb
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.AssemblyInfoInputs.cache
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.AssemblyInfo.cs
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.dll
+C:\Users\MJgal\Documents\GitHub\WYKS_Bot\WYKSBot.DAL\obj\Debug\netstandard2.0\WYKSBot.DAL.pdb

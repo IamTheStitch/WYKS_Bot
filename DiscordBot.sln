@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYKSBot.Bots", "WYKSBot.Bots\WYKSBot.Bots.csproj", "{F8DE509D-489E-45C5-9BC2-9AD2CA34A14D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYKSBot.DAL", "WYKSBot.DAL\WYKSBot.DAL.csproj", "{84FA3BE6-C9A5-46A9-9A17-5F29EC3894C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYKSBot.DAL.Migrations", "WYKSBot.DAL.Migrations\WYKSBot.DAL.Migrations.csproj", "{DC567B11-3316-42A2-83C2-848CB8D68A69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WYKSBot.Core", "WYKSBot.Core", "{F3BF5F00-1138-4CAE-B2FF-19202433A4E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WYKSBot.Core", "WYKSBot.Core\WYKSBot.Core.csproj", "{1A76521B-7C94-4A9E-96B8-390829F6250D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WYKSBot.Bots", "WYKSBot.Bots", "{CB4258E9-3CF3-4A6E-B8FF-EA1290A38A88}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WYKSBot.DAL", "WYKSBot.DAL", "{578F2232-B386-4E8E-8847-4BCE582A4B03}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WYKSBot.Dal.Migrations", "WYKSBot.Dal.Migrations", "{8EA0DB44-B4CA-4506-AF3C-BEE608E77203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DE509D-489E-45C5-9BC2-9AD2CA34A14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DE509D-489E-45C5-9BC2-9AD2CA34A14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DE509D-489E-45C5-9BC2-9AD2CA34A14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DE509D-489E-45C5-9BC2-9AD2CA34A14D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84FA3BE6-C9A5-46A9-9A17-5F29EC3894C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FA3BE6-C9A5-46A9-9A17-5F29EC3894C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FA3BE6-C9A5-46A9-9A17-5F29EC3894C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FA3BE6-C9A5-46A9-9A17-5F29EC3894C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC567B11-3316-42A2-83C2-848CB8D68A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC567B11-3316-42A2-83C2-848CB8D68A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC567B11-3316-42A2-83C2-848CB8D68A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC567B11-3316-42A2-83C2-848CB8D68A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A76521B-7C94-4A9E-96B8-390829F6250D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A76521B-7C94-4A9E-96B8-390829F6250D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A76521B-7C94-4A9E-96B8-390829F6250D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A76521B-7C94-4A9E-96B8-390829F6250D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F8DE509D-489E-45C5-9BC2-9AD2CA34A14D} = {CB4258E9-3CF3-4A6E-B8FF-EA1290A38A88}
+		{84FA3BE6-C9A5-46A9-9A17-5F29EC3894C7} = {578F2232-B386-4E8E-8847-4BCE582A4B03}
+		{DC567B11-3316-42A2-83C2-848CB8D68A69} = {8EA0DB44-B4CA-4506-AF3C-BEE608E77203}
+		{1A76521B-7C94-4A9E-96B8-390829F6250D} = {F3BF5F00-1138-4CAE-B2FF-19202433A4E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD6BFF2-91E0-400B-9B4F-EA7137896869}
+	EndGlobalSection
+EndGlobal

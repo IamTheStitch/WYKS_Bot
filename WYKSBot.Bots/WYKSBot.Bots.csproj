@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>WYKSBot.Bots</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.0.0-nightly-00678" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.0-nightly-00678" />
+    <PackageReference Include="DSharpPlus.Interactivity" Version="4.0.0-nightly-00678" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WYKSBot.Core\WYKSBot.Core.csproj" />
+    <ProjectReference Include="..\WYKSBot.DAL.Migrations\WYKSBot.DAL.Migrations.csproj" />
+    <ProjectReference Include="..\WYKSBot.DAL\WYKSBot.DAL.csproj" />
+  </ItemGroup>
+
+</Project>

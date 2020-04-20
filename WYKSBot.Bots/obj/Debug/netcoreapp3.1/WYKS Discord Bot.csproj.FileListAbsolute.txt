@@ -1,0 +1,20 @@
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\WYKS Discord Bot.exe
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\WYKS Discord Bot.deps.json
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\WYKS Discord Bot.runtimeconfig.json
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\WYKS Discord Bot.runtimeconfig.dev.json
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\WYKS Discord Bot.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\WYKS Discord Bot.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.CommandsNext.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.csprojAssemblyReference.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.AssemblyInfoInputs.cache
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.AssemblyInfo.cs
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.csproj.CopyComplete
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.dll
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.pdb
+C:\Users\MJgal\Documents\WYKS Bot\WYKS Discord Bot\WYKS Discord Bot\obj\Debug\netcoreapp3.1\WYKS Discord Bot.genruntimeconfig.cache
